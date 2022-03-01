@@ -1,0 +1,382 @@
+Error: Error in flight Id
+    at Object.Validator.validateFlightId (C:\Users\likhith.kolayari\Desktop\FBservices\public\javascripts\Validator.js:6:15)
+    at Object.FlightBookingBl.bookFlight (C:\Users\likhith.kolayari\Desktop\FBservices\public\javascripts\FlightBookingBL.js:11:15)
+    at C:\Users\likhith.kolayari\Desktop\FBservices\routes\Routing.js:10:21
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:275:10)
+Error: Error in flight Id
+    at Object.Validator.validateFlightId (C:\Users\likhith.kolayari\Desktop\FBservices\public\javascripts\Validator.js:6:15)
+    at Object.FlightBookingBl.bookFlight (C:\Users\likhith.kolayari\Desktop\FBservices\public\javascripts\FlightBookingBL.js:11:15)
+    at C:\Users\likhith.kolayari\Desktop\FBservices\routes\Routing.js:10:21
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:275:10)
+SyntaxError: Unexpected token 
+ in JSON at position 63
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+SyntaxError: Unexpected token ? in JSON at position 54
+    at JSON.parse (<anonymous>)
+    at parse (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\lib\types\json.js:89:19)
+    at C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+Error: Error in flight Id
+    at Object.Validator.validateFlightId (C:\Users\likhith.kolayari\Desktop\FBservices\public\javascripts\Validator.js:6:15)
+    at Object.FlightBookingBl.bookFlight (C:\Users\likhith.kolayari\Desktop\FBservices\public\javascripts\FlightBookingBL.js:11:15)
+    at C:\Users\likhith.kolayari\Desktop\FBservices\routes\Routing.js:10:21
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\likhith.kolayari\Desktop\FBservices\node_modules\express\lib\router\index.js:275:10)
+Error: Could not connect to Database
+    at C:\Users\likhith.kolayari\Desktop\FBservices\public\javascripts\connections.js:10:15
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Error in flight Id
+    at Object.Validator.validateFlightId (D:\Angular6\FBservices\public\javascripts\Validator.js:6:15)
+    at Object.FlightBookingBl.bookFlight (D:\Angular6\FBservices\public\javascripts\FlightBookingBL.js:11:15)
+    at D:\Angular6\FBservices\routes\Routing.js:10:21
+    at Layer.handle [as handle_request] (D:\Angular6\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular6\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular6\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular6\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular6\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular6\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular6\FBservices\node_modules\express\lib\router\index.js:275:10)
+Error: Error in flight Id
+    at Object.Validator.validateFlightId (D:\Angular6\FBservices\public\javascripts\Validator.js:6:15)
+    at Object.FlightBookingBl.bookFlight (D:\Angular6\FBservices\public\javascripts\FlightBookingBL.js:11:15)
+    at D:\Angular6\FBservices\routes\Routing.js:10:21
+    at Layer.handle [as handle_request] (D:\Angular6\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Angular6\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\Angular6\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\Angular6\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Angular6\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\Angular6\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\Angular6\FBservices\node_modules\express\lib\router\index.js:275:10)
+Error: Flight unavailable or cancelled
+    at D:\Angular6\FBservices\public\javascripts\FlightBookingBL.js:15:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: No record with Booking Id: 2010
+    at D:\Angular6\FBservices\public\javascripts\FlightBookingDAL.js:55:31
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Error in flight Id
+    at Object.Validator.validateFlightId (D:\FA3\Integrated\FBservices\public\javascripts\Validator.js:6:15)
+    at Object.FlightBookingBl.bookFlight (D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingBL.js:11:15)
+    at D:\FA3\Integrated\FBservices\routes\Routing.js:10:21
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:275:10)
+Error: No record with Booking Id: 45
+    at D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingDAL.js:55:31
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+ReferenceError: booking is not defined
+    at D:\FA3\Integrated\FBservices\routes\Routing.js:30:17
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:47:12)
+ReferenceError: booking is not defined
+    at D:\FA3\Integrated\FBservices\routes\Routing.js:30:17
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:47:12)
+Error: Requested number of seats unavailable
+    at D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingBL.js:18:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Requested number of seats unavailable
+    at D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingBL.js:18:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Flight unavailable or cancelled
+    at D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingBL.js:15:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+SyntaxError: Unexpected token } in JSON at position 24
+    at JSON.parse (<anonymous>)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:89:19)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+TypeError: Cannot read property 'bookingId' of undefined
+    at D:\FA3\Integrated\FBservices\routes\Routing.js:39:57
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:47:12)
+TypeError: Cannot read property 'bookingId' of undefined
+    at D:\FA3\Integrated\FBservices\routes\Routing.js:39:57
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:47:12)
+TypeError: Cannot read property 'bookingId' of undefined
+    at D:\FA3\Integrated\FBservices\routes\Routing.js:40:44
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:47:12)
+TypeError: Cannot read property 'bookingId' of undefined
+    at D:\FA3\Integrated\FBservices\routes\Routing.js:40:44
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\layer.js:95:5)
+    at D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:335:12)
+    at next (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:174:3)
+    at router (D:\FA3\Integrated\FBservices\node_modules\express\lib\router\index.js:47:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+Error: Requested number of seats unavailable
+    at D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingBL.js:18:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Flight unavailable or cancelled
+    at D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingBL.js:15:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Requested number of seats unavailable
+    at D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingBL.js:18:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+Error: Requested number of seats unavailable
+    at D:\FA3\Integrated\FBservices\public\javascripts\FlightBookingBL.js:18:19
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+SyntaxError: Unexpected token # in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:157:10)
+    at parse (D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\types\json.js:83:15)
+    at D:\FA3\Integrated\FBservices\node_modules\body-parser\lib\read.js:121:18
+    at invokeCallback (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:224:16)
+    at done (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:213:7)
+    at IncomingMessage.onEnd (D:\FA3\Integrated\FBservices\node_modules\body-parser\node_modules\raw-body\index.js:273:7)
+    at emitNone (events.js:106:13)
+    at IncomingMessage.emit (events.js:208:7)
+    at endReadableNT (_stream_readable.js:1056:12)
+TypeError: Cannot read property 'length' of undefined
+    at Object.Validator.validateFlightId (E:\CapstoneAngularProject\FBwebservice\public\javascripts\Validator.js:5:17)
+    at Object.FlightBookingBl.bookFlight (E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:11:15)
+    at E:\CapstoneAngularProject\FBwebservice\routes\Routing.js:9:21
+    at Layer.handle [as handle_request] (E:\CapstoneAngularProject\FBwebservice\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\CapstoneAngularProject\FBwebservice\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\CapstoneAngularProject\FBwebservice\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\CapstoneAngularProject\FBwebservice\node_modules\express\lib\router\layer.js:95:5)
+    at E:\CapstoneAngularProject\FBwebservice\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\CapstoneAngularProject\FBwebservice\node_modules\express\lib\router\index.js:335:12)
+    at next (E:\CapstoneAngularProject\FBwebservice\node_modules\express\lib\router\index.js:275:10)
+Error: Flight unavailable or cancelled
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:15:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Flight unavailable or cancelled
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:15:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Requested number of seats unavailable
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:18:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Requested number of seats unavailable
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:18:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Flight unavailable or cancelled
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:15:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Flight unavailable or cancelled
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:15:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Flight unavailable or cancelled
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:15:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Requested number of seats unavailable
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:18:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Requested number of seats unavailable
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:18:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Requested number of seats unavailable
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:18:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Requested number of seats unavailable
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:18:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Flight unavailable or cancelled
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:15:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+Error: Flight unavailable or cancelled
+    at E:\CapstoneAngularProject\FBwebservice\public\javascripts\FlightBookingBL.js:15:19
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)

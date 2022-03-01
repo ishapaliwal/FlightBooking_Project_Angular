@@ -1,0 +1,16 @@
+<div class="row">
+  <div class="col-md-5 col-md-offset-4">
+    <div class="panel panel-primary">
+      <div class="panel-heading">View the Flight</div>
+      <div class="panel-body">
+
+        <table>
+        <tr style="font-weight: bolder"><td>Passenger Name</td><td>Booking ID</td><td>No Of Tickets</td><td>Amount</td><td>Delete</td></tr>
+        <tr *ngFor="let flight of flights"><td>{{flight.passengerName}}</td><td>{{flight.bookingId}}</td><td>{{flight.noOfTickets}}</td><td>{{flight.totalAmount}}</td><td><button type="button" [disabled]="flight.totalAmount > 5000" (click)="delete(flight.bookingId)">Delete</button></td></tr>
+        </table>
+        <div *ngIf="!errorMessage">{{errorMessage}}</div>
+      </div>
+
+    </div>
+  </div>
+</div>

@@ -1,0 +1,29 @@
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div>
+      <a class="navbar-brand" href="#">Flight Booking</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li [routerLink] = '["/book"]' routerLinkActive = "active">Book Flight</li>
+      <li [routerLink] = '["/view"]' routerLinkActive = "active">View Details</li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container-fluid">
+  <div>
+    <div [hidden]="agree">
+      <div class="allign">
+        <h1>Welcome to Flight Booking System !</h1>
+      </div>
+      <h2>Quick Guidelines :</h2>
+      <ol>
+        <li>While booking, enter proper flight Id (having 4 digit number).</li>
+        <li>Number of booking tickets can not be more than 40.</li>
+      </ol>
+      <input type="button" class = "bu" value="Got It" (click)="agreed(1)">
+    </div>
+
+  </div>
+  <router-outlet></router-outlet>
+</div>

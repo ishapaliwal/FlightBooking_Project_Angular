@@ -1,0 +1,36 @@
+<div class="row">
+  <div class="col-md-5 col-md-offset-4">
+    <div class="panel panel-primary">
+      <div class="panel-heading">Book the Flight</div>
+      <div class="panel-body">
+
+        <form [formGroup]="bookingForm" (ngSubmit)="book()">
+          <div class="form-group">
+            <label>Passenger Name</label><br/>
+            <input type="text" class="form-control" formControlName="passengerName">
+            <p *ngIf="!bookingForm.controls.passengerName.pristine && bookingForm.controls.passengerName.errors" class="alert alert-danger">This field is required!</p>
+          </div>
+          <div class="form-group">
+            <label>Number of Tickets</label><br/>
+            <input type="number" class="form-control" formControlName="noOfTickets">
+            <p *ngIf="!bookingForm.controls.noOfTickets.pristine && bookingForm.controls.noOfTickets.invalid && bookingForm.controls.noOfTickets.errors?.required" class="alert alert-danger">This field is required!</p>
+            <p *ngIf="bookingForm.controls.noOfTickets.invalid && bookingForm.controls.noOfTickets.errors?.min" class="alert alert-danger">Number of tickets must be greater than 1!</p>
+          </div>
+          <div class="form-group">
+            <label>Flight Id</label><br/>
+            <input type="text" class="form-control" formControlName="flightId">
+            <p *ngIf="bookingForm.controls.flightId.dirty && bookingForm.controls.flightId.errors?.idInvalid" class="alert alert-danger">{{bookingForm.controls.flightId.errors?.idInvalid.message}}</p>
+          </div>
+          <button type="submit" [disabled]="!bookingForm.controls.passengerName.valid || !bookingForm.controls.noOfTickets.valid || !bookingForm.controls.flightId.valid" ><strong>Book</strong></button>
+        </form>
+
+        <div *ngIf="errorMessage!=null">
+          <span class="error">{{errorMessage}}</span>
+        </div>
+        <div *ngIf="successMessage!=null">
+          <span class="success">{{successMessage}}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

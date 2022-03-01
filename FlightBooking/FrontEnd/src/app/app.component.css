@@ -1,0 +1,23 @@
+.allign{
+
+    text-align:center;
+    color:rgb(121, 16, 16)
+}
+ul li{
+    color: #9d9d9d;
+    margin: 14px 10px;
+}
+
+ul li:hover{
+    color: rgb(255,255,255);
+    cursor: pointer;
+}
+
+.bu{
+    color:white;
+    width: 8%;
+    height: 2%;
+    border-radius: 5%;
+    background-color: rgb(54, 83, 145);
+    font-weight: bolder;
+}

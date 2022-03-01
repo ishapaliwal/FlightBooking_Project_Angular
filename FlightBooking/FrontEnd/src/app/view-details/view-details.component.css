@@ -1,0 +1,27 @@
+.error-message{
+    color: red
+}
+
+.success{
+color:green;
+font-size:"20px"
+}
+
+tr,td{
+    border-style: solid;
+    border-width: 1%;
+    padding: 2% 2% 2%;
+    width: 20%;
+}
+
+button{
+    background-color: rgb(200, 47, 53);
+    color: white;
+    height: 40%;
+    width: 100%;
+    border-radius: 10%;
+}
+
+button:disabled{
+    background-color: rgb(230, 143, 140);
+}
